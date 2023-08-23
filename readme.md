@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento
 
 ```
-Please install exec
+node app.js
 ```
